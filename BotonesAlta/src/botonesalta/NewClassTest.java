@@ -15,5 +15,6 @@ public class NewClassTest {
     public void metodo(){
         int metodo = 1;
         System.out.println("printando "+metodo);
+        System.out.println("printando wea desde githhub");
     }
 }
